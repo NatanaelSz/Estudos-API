@@ -26,7 +26,7 @@ Antes de começar, você precisará ter instalado:
 
 Clone este repositório para sua máquina local:
 
-git clone https://github.com/NatanaelSz/Estudos-API.git
+git clone https://github.com/NatanaelSz/Estudos-API-JS.git
 
 ### Passo 2: Configuração do Banco de Dados com Docker
 
